@@ -1,6 +1,6 @@
 # 🎬 Videoflix – Angular Frontend
 
-Dies ist das Frontend der Videoplattform **Videoflix**, entwickelt mit Angular. Benutzer können Filme durchsuchen, anschauen, ihre Watchlist verwalten und den Wiedergabefortschritt speichern. Das Frontend kommuniziert mit dem Django-Backend via REST API.
+Dies ist das Frontend der Videoplattform **Videoflix**, entwickelt mit Angular. Benutzer können Filme durchsuchen, anschauen und den Wiedergabefortschritt speichern. Das Frontend kommuniziert mit dem videoflix-backend via REST API.
 
 ---
 
@@ -14,6 +14,6 @@ Dies ist das Frontend der Videoplattform **Videoflix**, entwickelt mit Angular. 
 ## ⚙️ Installation
 
 ```
-git clone https://github.com/Rio741/videoflix-angular.git
-cd videoflix-angular
+git clone https://github.com/Rio741/videoflix-frontend.git
+cd videoflix-frontend
 npm install
